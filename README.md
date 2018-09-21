@@ -1,4 +1,4 @@
-# avaliadorDeProposicoesLogicas <br />
+# Avaliador de Proposicoes Logicas | Logic Sintax Evaluator and True Table Generator<br />
 Avaliador de Proposicoes logicas e gerador de tabelas verdade/ Logic Sintax Evaluator and True Table Generator <br />
 The accepted alphabet is: <br />
 {(,),->,<->,A...Z,a...Z,￢,∧,∨} <br />
